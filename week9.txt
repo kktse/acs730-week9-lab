@@ -1,1 +1,3 @@
 Week 9: Introduction to Git
+- Introduce source control
+- Introduce git
